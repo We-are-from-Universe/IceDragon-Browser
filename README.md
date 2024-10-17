@@ -1,5 +1,5 @@
 # IceDragon-Browser
-TesseraQt - Highly Secure Web Browser for the GNU OS Project
+ Highly Secure Web Browser for the TesseraQt-GNU OS Project
 
 It is a fork of the FireDragon Web Browser. It is updated with Firedragon. Developed from FireDragon Floorp Browser. Floorp Browser is the best firefox based Web Browser in terms of performance and speed. FireDragon is a security-oriented web browser. It includes security configurations from projects like LibreWolf. In this project we will fork FireDragon and import some settings and configurations from the GNU Icecat Browser Project. We will add them to the settings interface. We will also do the following according to the needs of the TesseraQt-GNU OS Project:
 
